@@ -77,11 +77,17 @@ A curated list of ESP32 related reversing resources
 - [Flare IDA](https://github.com/fireeye/flare-ida)
 - [Processor plugin for IDA 7.x, to support the Xtensa](https://github.com/themadinventor/ida-xtensa)
 - [A loader for the esp-idf application images for IDA Pro](https://github.com/jrozner/esp-image-ida)
+- [A list of IDA Plugins](https://github.com/onethawt/idaplugins-list)
 
 #### Signatures, IDA
 
 - [Using and Making IDA Pro Signatures (Flirt)](https://rvsec0n.wordpress.com/2019/09/21/using-and-making-ida-pro-signatures-flirt/)
+- [IDA SigMaker Plugin updated for the IDA Pro 7.0 SDK by dude719](https://github.com/ajkhoury/SigMaker-x64)
 
+### Ghidra
+
+- [Ghidra](https://ghidra-sre.org/)
+- [Tensilica Xtensa module for Ghidra](https://github.com/yath/ghidra-xtensa)
 
 - - -
 
@@ -121,3 +127,14 @@ A curated list of ESP32 related reversing resources
 ## Fun
 
 - [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
+
+### z3 and reverse
+
+- [SAT/SMT by Example Dennis Yurichev](https://yurichev.com/writings/SAT_SMT_by_example.pdf)
+- [Intro to Binary Analysis with Z3 and angr](https://github.com/FSecureLABS/z3_and_angr_binary_analysis_workshop)
+- [Code & screenshots for various Z3 based CTF challenge writeups](https://github.com/sam-b/z3-stuff)
+- [Writeup: Sharky CTF 2020 - Z3 Robot](https://cesena.github.io/2020/05/13/z3-robot/)
+- [PicoCTF 2018 - Reverse Engineering writeups](https://shizz3r.blogspot.com/2019/03/picoctf-2018-reverse-engineering.html)
+- [PicoCTF 2018 Writeup: Reversing](https://tcode2k16.github.io/blog/posts/picoctf-2018-writeup/reversing/)
+
+
