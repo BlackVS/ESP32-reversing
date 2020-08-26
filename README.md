@@ -4,7 +4,6 @@ A curated list of ESP32 related reversing resources
 - [ESP32 Reversing](#esp32-reversing)
     - [Hardware](#hardware)
     - [Firmware](#firmware)
-    - [Parsers](#parsers)
     - [Debuggers](#debuggers)
     - [JTAG](#jtag)
     - [QEMU](#qemu)
@@ -45,10 +44,11 @@ A curated list of ESP32 related reversing resources
 - [ESP8266 BOOT PROCESS](https://richard.burtons.org/2015/05/17/esp8266-boot-process/)
 - [DECOMPILING THE ESP8266 BOOT LOADER V1.3(B3)](https://richard.burtons.org/2015/05/17/decompiling-the-esp8266-boot-loader-v1-3b3/)
 
+### BIN 2 ELF
 
-- - -
-
-## Parsers
+- [ESP32 Firmware Image to ELF](https://github.com/tenable/esp32_image_parser)
+- [Tiny project allows converting ESP32 ROM blob to ELF file with symbols](https://github.com/gschorcht/esp32-elf-rom)
+- [Converts a flash dump from an esp8266 device into an ELF executable](https://github.com/jsandin/esp-bin2elf)
 
 - - -
 
