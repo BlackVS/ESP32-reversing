@@ -2,18 +2,18 @@
 A curated list of ESP32 related reversing resources
 
 - [ESP32 Reversing](#esp32-reversing)
-    - [General](#general)
     - [Hardware](#hardware)
     - [Firmware](#firmware)
     - [Parsers](#parsers)
     - [Debuggers](#debuggers)
     - [JTAG](#jtag)
-    - [QEMU)(#qemu)
+    - [QEMU](#qemu)
     - [Books](#books)
-- - -
-## General
+    - [Git](#git)
+    - [Links](#links)
 
 - - -
+
 
 ## Hardware
 
@@ -66,3 +66,17 @@ A curated list of ESP32 related reversing resources
 ## Books
 
 - [Kolban's book on ESP32](https://leanpub.com/kolban-ESP32), Free download
+
+- - -
+
+## Git
+
+- (Neil Kolban)[https://github.com/nkolban]
+
+- - -
+
+## Links
+
+- [Tom Trebisky's ESP32 notes](http://cholla.mmto.org/esp32/)
+- [A curated list of awesome reversing resources](https://github.com/tylerha97/awesome-reversing)
+- [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing)
