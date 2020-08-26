@@ -10,6 +10,7 @@ A curated list of ESP32 related reversing resources
     - [Books](#books)
     - [Git](#git)
     - [Links](#links)
+    - [Fun](#fun)
 
 - - -
 
@@ -59,12 +60,14 @@ A curated list of ESP32 related reversing resources
 
 ## Debuggers
 
-### Plug-ins
+### IDA
+#### Plug-ins
 
 - [Flare IDA](https://github.com/fireeye/flare-ida)
 - [Processor plugin for IDA 7.x, to support the Xtensa](https://github.com/themadinventor/ida-xtensa)
+- [A loader for the esp-idf application images for IDA Pro](https://github.com/jrozner/esp-image-ida)
 
-### Signatures, IDA
+#### Signatures, IDA
 
 - [Using and Making IDA Pro Signatures (Flirt)](https://rvsec0n.wordpress.com/2019/09/21/using-and-making-ida-pro-signatures-flirt/)
 
@@ -99,3 +102,9 @@ A curated list of ESP32 related reversing resources
 - [A curated list of awesome reversing resources](https://github.com/tylerha97/awesome-reversing)
 - [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing)
 - [lucadentella.it , ESP32 tutorials](http://www.lucadentella.it/en/category/esp32/)
+
+- - -
+
+## Fun
+
+- [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
