@@ -18,6 +18,7 @@ A curated list of ESP32 related reversing resources
 
 ### ESP32 general
 
+- [ESP32 datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
 - [Xtensa®Instruction Set Architecture (ISA)](https://0x04.net/~mwk/doc/xtensa.pdf)
 - [ABI Interface/Argumnet passing](http://wiki.linux-xtensa.org/index.php/ABI_Interface)
 - [An short guide to Xtensa assembly language](http://cholla.mmto.org/esp8266/xtensa.html)
