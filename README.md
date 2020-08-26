@@ -31,6 +31,7 @@ A curated list of ESP32 related reversing resources
 
 - [API Reference](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/index.html)
 - [App Image Format](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/app_image_format.html)
+- [Reversing ESP8266 Firmware (Part 1..6)](https://boredpentester.com/category/reverse-engineering/)
 
 - - -
 
@@ -39,6 +40,10 @@ A curated list of ESP32 related reversing resources
 - - -
 
 ## Debuggers
+
+### Signatures, IDA
+
+-[Using and Making IDA Pro Signatures (Flirt)](https://rvsec0n.wordpress.com/2019/09/21/using-and-making-ida-pro-signatures-flirt/)
 
 - - -
 
