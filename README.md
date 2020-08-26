@@ -9,6 +9,7 @@ A curated list of ESP32 related reversing resources
     - [Debuggers](#debuggers)
     - [JTAG](#jtag)
     - [QEMU)(#qemu)
+    - [Books](#books)
 - - -
 ## General
 
@@ -59,5 +60,9 @@ A curated list of ESP32 related reversing resources
 ## QEMU
 
 - [ESP32 in QEMU](https://github.com/Ebiroll/qemu_esp32)
+
 - - -
 
+## Books
+
+- [Kolban's book on ESP32](https://leanpub.com/kolban-ESP32), Free download
