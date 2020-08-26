@@ -22,8 +22,12 @@ A curated list of ESP32 related reversing resources
 - [An short guide to Xtensa assembly language](http://cholla.mmto.org/esp8266/xtensa.html)
 
 ### NNCBadge2019
+- [Official info](https://2019.nonamecon.org/badge)
+- [Write-ups](https://gitlab.com/coders-in-ua/nonamebadge-2019-ctf)
+- [NoNameBadge 2019 - Public Version](https://gitlab.com/techmaker/nnc-badge-2019)
 
 ### NNCBadge2020
+- [Official info](https://nonamecon.org/nonamebadge-2-0/)
 
 - - -
 
