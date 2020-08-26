@@ -4,6 +4,9 @@ A curated list of ESP32 related reversing resources
 - [ESP32 Reversing](#esp32-reversing)
     - [Hardware](#hardware)
     - [Firmware](#firmware)
+        - [Bootloader](#bootloader)
+        - [bin2elf](#bin2elf)
+        - [ELF format](#elf)
     - [Debuggers](#debuggers)
         - [IDA](#ida)
         - [radare2](#radare2)
@@ -51,7 +54,7 @@ A curated list of ESP32 related reversing resources
 - [ESP8266 BOOT PROCESS](https://richard.burtons.org/2015/05/17/esp8266-boot-process/)
 - [DECOMPILING THE ESP8266 BOOT LOADER V1.3(B3)](https://richard.burtons.org/2015/05/17/decompiling-the-esp8266-boot-loader-v1-3b3/)
 
-### BIN 2 ELF
+### BIN2ELF
 
 - [ESP32 Firmware Image to ELF](https://github.com/tenable/esp32_image_parser)
 - [Tiny project allows converting ESP32 ROM blob to ELF file with symbols](https://github.com/gschorcht/esp32-elf-rom)
@@ -59,6 +62,11 @@ A curated list of ESP32 related reversing resources
 
 - Extracting_an_ELF_from_an_ESP32,Chris Lyne and Nick Miles (Shmoocon 2020) 
 [video](https://www.youtube.com/watch?v=w4_3vwN_2dI), [slides](https://github.com/tenable/presentations/blob/master/Extracting_an_ELF_from_an_ESP32/Extracting_an_ELF_from_an_ESP32_2020.pdf), [tool](https://github.com/tenable/esp32_image_parser)
+
+### ELF
+
+- [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/#elf-sections)
+
 - - -
 
 ## Debuggers
@@ -95,7 +103,8 @@ A curated list of ESP32 related reversing resources
 
 ## Git
 
-- (Neil Kolban)[https://github.com/nkolban]
+- ]Neil Kolban](https://github.com/nkolban)
+- [ELF reader-writer library for Python3](https://github.com/v3l0c1r4pt0r/makeelf)
 
 - - -
 
@@ -105,6 +114,7 @@ A curated list of ESP32 related reversing resources
 - [A curated list of awesome reversing resources](https://github.com/tylerha97/awesome-reversing)
 - [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing)
 - [lucadentella.it , ESP32 tutorials](http://www.lucadentella.it/en/category/esp32/)
+- [ESP32: Анализ использования оперативной памяти](https://www.terraelectronica.ru/news/6231)
 
 - - -
 
