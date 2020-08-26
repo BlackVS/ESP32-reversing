@@ -15,6 +15,14 @@ A curated list of ESP32 related reversing resources
 
 ## Hardware
 
+### ESP32 general
+
+[Xtensa®Instruction Set Architecture (ISA)](https://0x04.net/~mwk/doc/xtensa.pdf)
+
+### NNCBadge2019
+
+### NNCBadge2020
+
 - - -
 
 ## Firmware
