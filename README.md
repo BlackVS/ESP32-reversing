@@ -21,6 +21,8 @@ A curated list of ESP32 related reversing resources
 - [Xtensa®Instruction Set Architecture (ISA)](https://0x04.net/~mwk/doc/xtensa.pdf)
 - [ABI Interface/Argumnet passing](http://wiki.linux-xtensa.org/index.php/ABI_Interface)
 - [An short guide to Xtensa assembly language](http://cholla.mmto.org/esp8266/xtensa.html)
+- Nullcon Goa 2018: Expanding Exploitation Beyond X86 And ARMб [slides](https://nullcon.net/website/archives/pdf/goa-2018/carel-nullcon-arm-vs-xtensa-exploitation-%28final%29.pdf) [video](https://www.youtube.com/watch?v=DNl2ykqBB4U)
+
 
 ### NNCBadge2019
 - [Official info](https://2019.nonamecon.org/badge)
