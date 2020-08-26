@@ -38,6 +38,13 @@ A curated list of ESP32 related reversing resources
 - [API Reference](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/index.html)
 - [App Image Format](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/app_image_format.html)
 - [Reversing ESP8266 Firmware (Part 1..6)](https://boredpentester.com/category/reverse-engineering/)
+- [Reverse Engineering ESP8266, rus](https://habr.com/ru/post/255135/)
+
+### Bootloader
+
+- [ESP8266 BOOT PROCESS](https://richard.burtons.org/2015/05/17/esp8266-boot-process/)
+- [DECOMPILING THE ESP8266 BOOT LOADER V1.3(B3)](https://richard.burtons.org/2015/05/17/decompiling-the-esp8266-boot-loader-v1-3b3/)
+
 
 - - -
 
@@ -47,9 +54,15 @@ A curated list of ESP32 related reversing resources
 
 ## Debuggers
 
+### Plug-ins
+
+- [Flare IDA](https://github.com/fireeye/flare-ida)
+- [Processor plugin for IDA 7.x, to support the Xtensa](https://github.com/themadinventor/ida-xtensa)
+
 ### Signatures, IDA
 
--[Using and Making IDA Pro Signatures (Flirt)](https://rvsec0n.wordpress.com/2019/09/21/using-and-making-ida-pro-signatures-flirt/)
+- [Using and Making IDA Pro Signatures (Flirt)](https://rvsec0n.wordpress.com/2019/09/21/using-and-making-ida-pro-signatures-flirt/)
+
 
 - - -
 
