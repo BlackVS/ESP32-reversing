@@ -51,7 +51,7 @@ A curated list of ESP32 related reversing resources
 - [Converts a flash dump from an esp8266 device into an ELF executable](https://github.com/jsandin/esp-bin2elf)
 
 - Extracting_an_ELF_from_an_ESP32,Chris Lyne and Nick Miles (Shmoocon 2020) 
-[video](https://www.youtube.com/watch?v=w4_3vwN_2dI), [slides](https://github.com/tenable/presentations/blob/master/Extracting_an_ELF_from_an_ESP32/Extracting_an_ELF_from_an_ESP32_2020.pdf), (tool)(https://github.com/tenable/esp32_image_parser)
+[video](https://www.youtube.com/watch?v=w4_3vwN_2dI), [slides](https://github.com/tenable/presentations/blob/master/Extracting_an_ELF_from_an_ESP32/Extracting_an_ELF_from_an_ESP32_2020.pdf), [tool](https://github.com/tenable/esp32_image_parser)
 - - -
 
 ## Debuggers
