@@ -80,3 +80,4 @@ A curated list of ESP32 related reversing resources
 - [Tom Trebisky's ESP32 notes](http://cholla.mmto.org/esp32/)
 - [A curated list of awesome reversing resources](https://github.com/tylerha97/awesome-reversing)
 - [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing)
+- [lucadentella.it , ESP32 tutorials](http://www.lucadentella.it/en/category/esp32/)
