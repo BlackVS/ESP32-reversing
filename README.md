@@ -11,6 +11,7 @@ A curated list of ESP32 related reversing resources
         - [IDA](#ida)
         - [radare2](#radare2)
         - [Ghidra](#ghidra)
+        - [gdb](#gdb)
     - [JTAG](#jtag)
     - [QEMU](#qemu)
     - [Books](#books)
@@ -89,6 +90,11 @@ A curated list of ESP32 related reversing resources
 - [Ghidra](https://ghidra-sre.org/)
 - [Tensilica Xtensa module for Ghidra](https://github.com/yath/ghidra-xtensa)
 
+### gdb
+
+#### Plug-ins
+
+- [console UI for gdb](https://github.com/cyrus-and/gdb-dashboard)
 - - -
 
 ## JTAG
