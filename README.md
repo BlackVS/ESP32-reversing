@@ -90,7 +90,7 @@ A curated list of ESP32 related reversing resources
 - [ESIL](https://monosource.gitbooks.io/radare2-explorations/content/tut3/tut3_-_esil.html)
 - [asm options](https://r2wiki.readthedocs.io/en/latest/options/e/values-that-e-can-modify/asm/)
 
-### CTF with Radare2
+#### CTF with Radare2
 
 - [CTF solving using radare2 / Blogs](https://r2wiki.readthedocs.io/en/latest/home/ctf-solving-using-radare2/)
 - [Знакомство с Radare2](https://forum.reverse4you.org/t/radare-2/1113)
