@@ -85,6 +85,7 @@ A curated list of ESP32 related reversing resources
 - [Using and Making IDA Pro Signatures (Flirt)](https://rvsec0n.wordpress.com/2019/09/21/using-and-making-ida-pro-signatures-flirt/)
 - [IDA SigMaker Plugin updated for the IDA Pro 7.0 SDK by dude719](https://github.com/ajkhoury/SigMaker-x64)
 
+- - -
 ### radare2
 - [Awesome Radare2](https://github.com/radareorg/awesome-radare2)
 - [ESIL](https://monosource.gitbooks.io/radare2-explorations/content/tut3/tut3_-_esil.html)
@@ -96,11 +97,13 @@ A curated list of ESP32 related reversing resources
 - [Знакомство с Radare2](https://forum.reverse4you.org/t/radare-2/1113)
 - [Emulating a MIPS binary with radare2](http://chasekanipe.com/writeups/emulatingmips.pdf)
 
+- - -
 ### Ghidra
 
 - [Ghidra](https://ghidra-sre.org/)
 - [Tensilica Xtensa module for Ghidra](https://github.com/yath/ghidra-xtensa)
 
+- - -
 ### gdb
 
 #### Plug-ins
@@ -109,8 +112,6 @@ A curated list of ESP32 related reversing resources
 - - -
 
 ## JTAG
-
-- - -
 
 ## QEMU
 
