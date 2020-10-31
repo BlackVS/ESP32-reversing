@@ -80,6 +80,7 @@ A curated list of ESP32 related reversing resources
 - [Processor plugin for IDA 7.x, to support the Xtensa](https://github.com/themadinventor/ida-xtensa)
 - [A loader for the esp-idf application images for IDA Pro](https://github.com/jrozner/esp-image-ida)
 - [A list of IDA Plugins](https://github.com/onethawt/idaplugins-list)
+- [IDA export symbols plugin by BlackVS](https://github.com/BlackVS/IDA-exportsymbols)
 
 #### Signatures, IDA
 
