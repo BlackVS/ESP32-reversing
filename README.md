@@ -41,7 +41,8 @@ A curated list of ESP32 related reversing resources
 
 ### NNCBadge2020
 - [Official info](https://nonamecon.org/nonamebadge-2-0/)
-
+- [NoNameBadge 2020 - Public Version](https://gitlab.com/techmaker/nonamebadge-2020-public)
+- [CTF NNC2020, walkthrough by Anvol](https://www.youtube.com/watch?v=THuKw9CntR0&feature=youtu.be)
 - - -
 
 ## Firmware
