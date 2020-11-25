@@ -3,6 +3,8 @@ A curated list of ESP32 related reversing resources
 
 - [ESP32 Reversing](#esp32-reversing)
     - [Hardware](#hardware)
+        - [NoNameCon 2019 Badge](#NNCBadge2019)
+        - [NoNameCon 2020 Badge](#NNCBadge2020)
     - [Firmware](#firmware)
         - [Bootloader](#bootloader)
         - [bin2elf](#bin2elf)
