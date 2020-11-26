@@ -58,6 +58,7 @@ A curated list of ESP32 related reversing resources
 
 - [ESP8266 BOOT PROCESS](https://richard.burtons.org/2015/05/17/esp8266-boot-process/)
 - [DECOMPILING THE ESP8266 BOOT LOADER V1.3(B3)](https://richard.burtons.org/2015/05/17/decompiling-the-esp8266-boot-loader-v1-3b3/)
+- [Understanding ESP32’s Security Features](https://medium.com/the-esp-journal/understanding-esp32s-security-features-14483e465724)
 
 ### BIN2ELF
 
