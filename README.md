@@ -109,6 +109,7 @@ A curated list of ESP32 related reversing resources
 
 - [Ghidra](https://ghidra-sre.org/)
 - [Tensilica Xtensa module for Ghidra](https://github.com/yath/ghidra-xtensa)
+- [SVD-Loader for Ghidra](https://leveldown.de/blog/svd-loader/)
 
 - - -
 ### gdb
