@@ -40,10 +40,12 @@ A curated list of ESP32 related reversing resources
 - [Write-ups by VVS](https://gitlab.com/coders-in-ua/nonamebadge-2019-ctf)
 - Some basic hacking techniques via example: NoNameCon badge by Oleksii Sobolevskyi [video](https://www.facebook.com/watch/?v=2357574994326811&extid=7aponckVbhwv81gY), [slides](https://speakerdeck.com/macpawtechtalks/some-basic-hacking-techniques-via-example-nonamecon-badge-by-oleksii-sobolevskyi)
 - [NoNameBadge 2019 - Public Version](https://gitlab.com/techmaker/nnc-badge-2019)
+- [NoNameBadge 2019 - Public Version](https://gitlab.com/techmaker/nonamecon/nonamebadge-2019-public), other link
 
 ### NNCBadge2020
 - [Official info](https://nonamecon.org/nonamebadge-2-0/)
 - [NoNameBadge 2020 - Public Version](https://gitlab.com/techmaker/nonamebadge-2020-public)
+- [NoNameBadge 2020 - Public Version](https://gitlab.com/techmaker/nonamecon/nonamebadge-2020-public), other link
 - CTF NNC2020, walkthrough by Anvol, [video](https://www.youtube.com/watch?v=THuKw9CntR0&feature=youtu.be), [slides](https://gitlab.com/coders-in-ua/nonamebadge-2020-ctf/-/raw/master/docs/CTFwalkthroughByAnVol.pdf?inline=false)
 - [Write-ups by VVS](https://gitlab.com/coders-in-ua/nonamebadge-2020-ctf)
 
