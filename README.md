@@ -58,6 +58,7 @@ A curated list of ESP32 related reversing resources
 - [App Image Format](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/app_image_format.html)
 - [Reversing ESP8266 Firmware (Part 1..6)](https://boredpentester.com/category/reverse-engineering/)
 - [Reverse Engineering ESP8266, rus](https://habr.com/ru/post/255135/)
+- [Tools for ESP32 firmware dissection](https://github.com/BlackVS/esp32knife),
 
 ### Bootloader
 
