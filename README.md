@@ -77,6 +77,9 @@ A curated list of ESP32 related reversing resources
 ### ELF
 
 - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/#elf-sections)
+- [ELF reader-writer library for Python3](https://github.com/v3l0c1r4pt0r/makeelf)
+- [LIEF - Library to Instrument Executable Formats](https://github.com/lief-project/LIEF)
+
 
 - - -
 
@@ -142,8 +145,6 @@ A curated list of ESP32 related reversing resources
 ## Git
 
 - [Neil Kolban](https://github.com/nkolban)
-- [ELF reader-writer library for Python3](https://github.com/v3l0c1r4pt0r/makeelf)
-- [https://github.com/lief-project/LIEF](LIEF - Library to Instrument Executable Formats)
 
 - - -
 
