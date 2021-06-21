@@ -141,14 +141,14 @@ A curated list of ESP32 related reversing resources
 
 ## Git
 
-- ]Neil Kolban](https://github.com/nkolban)
+- [Neil Kolban](https://github.com/nkolban)
 - [ELF reader-writer library for Python3](https://github.com/v3l0c1r4pt0r/makeelf)
+- [https://github.com/lief-project/LIEF](LIEF - Library to Instrument Executable Formats)
 
 - - -
 
 ## ROP
 
-- [ELF reader-writer library for Python3](https://github.com/v3l0c1r4pt0r/makeelf)
 - [xrop](https://github.com/jsandin/xrop), supports Xtensa
 - [xrop-esp32](https://github.com/dbayoxy/xrop-esp32), xrop fork
 - [Exploitation on Xtensa/ESP,DC2017],https://def.camp/wp-content/uploads/dc2017/Day%201_Carel%20&%20Philip_xtensa_exploitation_DRAFT.PDF
