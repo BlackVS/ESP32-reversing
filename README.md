@@ -16,6 +16,7 @@ A curated list of ESP32 related reversing resources
         - [gdb](#gdb)
     - [JTAG](#jtag)
     - [QEMU](#qemu)
+    - [ROP](#rop)
     - [Books](#books)
     - [Git](#git)
     - [Links](#links)
@@ -145,6 +146,18 @@ A curated list of ESP32 related reversing resources
 
 - - -
 
+## ROP
+
+- [ELF reader-writer library for Python3](https://github.com/v3l0c1r4pt0r/makeelf)
+- [xrop](https://github.com/jsandin/xrop), supports Xtensa
+- [xrop-esp32](https://github.com/dbayoxy/xrop-esp32), xrop fork
+- [Exploitation on Xtensa/ESP,DC2017],https://def.camp/wp-content/uploads/dc2017/Day%201_Carel%20&%20Philip_xtensa_exploitation_DRAFT.PDF
+- [Exploitation: ARM & Xtensa compared](https://archive.nullcon.net/website/archives/pdf/goa-2018/carel-nullcon-arm-vs-xtensa-exploitation-(final).pdf), Stacks, overflows, gadgets, asm, and things, Nullcon Goa 2018
+- [Nullcon Goa 2018:- Expanding Exploitation Beyond X86 And ARM](https://www.youtube.com/watch?v=DNl2ykqBB4U)
+- [Exploiting vulnerabilities on Xtensa, 2020](https://www.emb-team.com/exploiting-vulnerabilities-on-xtensa/) + [Exploit example on Xtensa](https://github.com/emb-team/xtensa-exploit)
+- [Challenges of Return-Oriented-Programming on the Xtensa Hardware Architecture](https://sci-hub.do/10.1109/dsd51259.2020.00034), 2020 23rd Euromicro Conference on Digital System Design (DSD)
+- - -
+
 ## Links
 
 - [Tom Trebisky's ESP32 notes](http://cholla.mmto.org/esp32/)
@@ -158,6 +171,7 @@ A curated list of ESP32 related reversing resources
 ## Fun
 
 - [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
+
 
 ### z3 and reverse
 
