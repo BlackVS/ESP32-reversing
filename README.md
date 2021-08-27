@@ -17,10 +17,10 @@ A curated list of ESP32 related reversing resources
     - [JTAG](#jtag)
     - [QEMU](#qemu)
     - [ROP](#rop)
-    - [Books](#books)
     - [Git](#git)
     - [Links](#links)
     - [Fun](#fun)
+    - [Books](#books)
 
 - - -
 
@@ -137,12 +137,6 @@ A curated list of ESP32 related reversing resources
 
 - - -
 
-## Books
-
-- [Kolban's book on ESP32](https://leanpub.com/kolban-ESP32), Free download
-
-- - -
-
 ## Git
 
 - [Neil Kolban](https://github.com/nkolban)
@@ -184,4 +178,7 @@ A curated list of ESP32 related reversing resources
 - [PicoCTF 2018 - Reverse Engineering writeups](https://shizz3r.blogspot.com/2019/03/picoctf-2018-reverse-engineering.html)
 - [PicoCTF 2018 Writeup: Reversing](https://tcode2k16.github.io/blog/posts/picoctf-2018-writeup/reversing/)
 
+## Books
 
+- [Kolban's book on ESP32](https://leanpub.com/kolban-ESP32), Free download
+- [Hands on Internet of Things hacking](https://expliot.io/products/hands-on-internet-of-things-hacking), Free
