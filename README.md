@@ -183,3 +183,4 @@ A curated list of ESP32 related reversing resources
 - [Kolban's book on ESP32](https://leanpub.com/kolban-ESP32), Free download
 - [Hands on Internet of Things hacking](https://expliot.io/products/hands-on-internet-of-things-hacking), Free
 - [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded/dp/1593278748)
+- [Practical IoT Hacking: The Definitive Guide to Attacking the Internet of Things](https://www.amazon.com/Practical-IoT-Hacking-Fotios-Chantzis/dp/1718500904)
