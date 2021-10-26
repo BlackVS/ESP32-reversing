@@ -167,7 +167,7 @@ A curated list of ESP32 related reversing resources
 ## Fun
 
 - [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
-
+- [BrakTooth: Arbitrary Code Execution](https://asset-group.github.io/disclosures/braktooth/)
 
 ### z3 and reverse
 
