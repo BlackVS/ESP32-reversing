@@ -5,6 +5,7 @@ A curated list of ESP32 related reversing resources
     - [Hardware](#hardware)
         - [NoNameCon 2019 Badge](#NNCBadge2019)
         - [NoNameCon 2020 Badge](#NNCBadge2020)
+        - [BLE CTF](#BLE-CTF)
     - [Firmware](#firmware)
         - [Bootloader](#bootloader)
         - [bin2elf](#bin2elf)
@@ -49,6 +50,12 @@ A curated list of ESP32 related reversing resources
 - [NoNameBadge 2020 - Public Version](https://gitlab.com/techmaker/nonamecon/nonamebadge-2020-public), other link
 - CTF NNC2020, walkthrough by Anvol, [video](https://www.youtube.com/watch?v=THuKw9CntR0&feature=youtu.be), [slides](https://gitlab.com/coders-in-ua/nonamebadge-2020-ctf/-/raw/master/docs/CTFwalkthroughByAnVol.pdf?inline=false)
 - [Write-ups by VVS](https://gitlab.com/coders-in-ua/nonamebadge-2020-ctf)
+
+### BLE CTF
+- [BLE Capture the Flag](https://github.com/hackgnar/ble_ctf)
+- [Learning Bluetooth Hackery with BLE CTF](http://www.hackgnar.com/2018/06/learning-bluetooth-hackery-with-ble-ctf.html)
+- [BLUETOOTH LOW ENERGY CTF - WRITE UP by ElyCar](https://blog.tclaverie.eu/posts/bluetooth-low-energy-ctf---write-up/)
+
 
 - - -
 
