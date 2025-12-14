@@ -127,7 +127,7 @@ A curated list of ESP32 related reversing resources
 - [Tensilica Xtensa module for Ghidra](https://github.com/yath/ghidra-xtensa)
 - [SVD-Loader for Ghidra](https://leveldown.de/blog/svd-loader/)
 - [Flash loader plugin for Ghidra](https://github.com/tslater2006/esp32_flash_loader)
-
+- [ESP32 arduino reverse engineering](https://vik0t0r.github.io/posts/ESP32-arduino-RE) by vik0t0r
 - - -
 ### gdb
 
