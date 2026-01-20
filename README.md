@@ -146,9 +146,12 @@ A curated list of ESP32 related reversing resources
 
 ## JTAG
 
+- [ESP32 FT232H JTAG Debugging on Linux](https://github.com/amirgon/ESP32-JTAG)
+
 ## QEMU
 
 - [ESP32 in QEMU](https://github.com/Ebiroll/qemu_esp32)
+- [Version of QEMU modified to reverse engineer the ESP32 wifi registers](https://github.com/esp32-open-mac/qemu)
 
 - - -
 
@@ -176,6 +179,7 @@ A curated list of ESP32 related reversing resources
 - [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing)
 - [lucadentella.it , ESP32 tutorials](http://www.lucadentella.it/en/category/esp32/)
 - [ESP32: Анализ использования оперативной памяти](https://www.terraelectronica.ru/news/6231)
+- [Building an open-source Wi-Fi MAC layer for the ESP32](https://esp32-open-mac.be/)
 
 - - -
 
