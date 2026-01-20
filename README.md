@@ -141,6 +141,7 @@ A curated list of ESP32 related reversing resources
 
 #### Plug-ins
 - [binja-xtensa: Architecture Plugin and ESP8266 Loader](https://github.com/zackorndorff/binja-xtensa)
+- [binja-xtensa2: Architecture Plugin and ESP8266 Loader](https://github.com/nicabi/binja-xtensa2) (active fork)
 ---
 
 ## JTAG
