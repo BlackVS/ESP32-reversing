@@ -15,6 +15,7 @@ A curated list of ESP32 related reversing resources
         - [radare2](#radare2)
         - [Ghidra](#ghidra)
         - [gdb](#gdb)
+        - [Binary Ninja](#binary-ninja)
     - [JTAG](#jtag)
     - [QEMU](#qemu)
     - [ROP](#rop)
@@ -135,6 +136,12 @@ A curated list of ESP32 related reversing resources
 
 - [console UI for gdb](https://github.com/cyrus-and/gdb-dashboard)
 - - -
+
+### Binary Ninja
+
+#### Plug-ins
+- [binja-xtensa: Architecture Plugin and ESP8266 Loader](https://github.com/zackorndorff/binja-xtensa)
+---
 
 ## JTAG
 
